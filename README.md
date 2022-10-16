@@ -15,7 +15,7 @@ Vitamin D deficiency is one of the most common medical problems in the world. Ge
 
 ## How is it used?
 
-The AI app will ask the user how much vitamin D the user wants and how much time the user is willing to be outside. Also, it will also ask during which time of the day the user can be outside and what parts of the body is exposed to the sun such as face, hands and/or legs. Then it will suggest a time of the day the user should be outside and for how long. Also, it will also record the user when it's outside to see how much the user is exposed to the sun. The solution is for everyone who wants to get a better understanding of their vitamin D levels, sun exposure and who want to control control their vitamin D levels.
+The AI app will ask the user how much vitamin D the user wants and how much time the user is willing to be outside. Also, it will also ask during which time of the day the user can be outside and what parts of the body is exposed to the sun such as face, hands and/or legs. Then it will suggest a time of the day the user are available to be outside and for how long. Also, it will also record the user when it's outside to see how much the user is exposed to the sun. The solution is for everyone who wants to get a better understanding of their vitamin D levels, sun exposure and who want to control control their vitamin D levels.
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
