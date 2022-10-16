@@ -19,48 +19,20 @@ The AI app will ask the user how much vitamin D the user wants and how much time
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
 
 ## Data sources and AI methods
 The data will be collected directly from the user and also throughout using the AI app it will collect GPS data from the user. Also, data about the weather such as when the sun is up and down, UV index and data about how clear the sky is. Also, data about daily recommended vitamin D intake will be taken from livsmedelsverket.se
 
+Linear regression and optimization algorithms could be used to analyze the data from the user and weather to give a recommendation to when it's best to be outside for sun expsoure. Also a normal distribution could be created from the data from the user when they are outside and another normal distribution from when the uv index. From these distributions a Confidence interval could be calculated from the preference of the user of how much exposure and when they are likely outisde to give a suggestion when they should be outside. 
 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+
+
 
 ## What next?
 
