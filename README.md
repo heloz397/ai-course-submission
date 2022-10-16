@@ -32,6 +32,7 @@ If you need to use links, here's an example:
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+Every user is unique and some user are more tolerant to sun exposure and needs to be longer outside while others are less tolerant and can easily get sunburnt. Therefore, the AI apps suggestions to the user when they should be outside might not be the best for them and also a lot of users might not be outside when the sun is up due to e.x. working, studying or simply busy. Also, it's impossible for the AI app to know the users vitamin D levels if the user hasn't checked their blood levels. Also, sunlight exposure can be a potential risk to the health and the app might be better served as an useful information app for the consumers
 
 
 ## What next?
