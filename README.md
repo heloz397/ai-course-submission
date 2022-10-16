@@ -7,11 +7,11 @@ Copy the template, paste it to your GitHub README and edit! -->
 Final project for the Building AI course
 
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+In the nordics it can be difficult to get enough vitamin D from the sun during the winter periods. The ai project is about creating an app that will help the user get more sun exposure in order to make sure they get enough vitamin D. 
 
 ## Background
+
+Vitamin D deficiency is one of the most common medical problem in the world. Getting it from our diet is not enough is not sufficient comparing to the recommended levels. Vitamin D has a big role in our body and is most known for it's role in the bones but symtoms such as fatigue and getting sick easily is also common. Furthermore, one can think that sunlight exposure is bad and it might not be worth it due to it being associated with aging, wrinks and skin cancer
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
