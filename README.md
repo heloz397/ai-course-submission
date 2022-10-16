@@ -37,12 +37,8 @@ Every user is unique and some user are more tolerant to sun exposure and needs t
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+Making an app prototype and testing it out is the next step. Also, researching and seing if there are current solutions which inspirations could be taken from them.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Vitamin D Mobile Healthcare Applications for Consumer Use - Are They Any Good?]([https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks](https://www.researchgate.net/publication/319401313_Vitamin_D_Mobile_Healthcare_Applications_for_Consumer_Use_-_Are_They_Any_Good)) )
+https://www.researchgate.net/publication/319401313_Vitamin_D_Mobile_Healthcare_Applications_for_Consumer_Use_-_Are_They_Any_Good
